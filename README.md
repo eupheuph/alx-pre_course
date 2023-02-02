@@ -1,2 +1,1 @@
-Second trial
-It was challenging
+Second trial;It was challenging
